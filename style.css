@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.topnav{
+    padding: 20px;
+    background-color: #FF7F50;
+    border-radius: 15px;
+}
+
+.topnav a{
+    color: darkblue;
+    padding: 25px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav:hover{
+    background-color: skyblue;
+}
+
+.topnav a:hover{
+    color: red;
+}
+
+.container{
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+
